@@ -1,9 +1,7 @@
 #topbar {
-
     width: 1000px;
     margin: 0 auto;
     height: 40px;
-
 }
 
 body {
@@ -13,52 +11,41 @@ body {
 }
 
 #logo {
-
     margin: 8px;
     width: 90px;
     float: left;
     margin-right: 8px;
-
 }
 
 .topbar-section {
-
     float: left;
-    border-left: 1px #cccccc solid;
+    border-left: 2px #cccccc solid;
     height: 100%;
-
 }
 
 #sign-in-img {
-
     width: 25px;
     height: 25px;
-    margin: 8px 8px;
+    margin: 11px 8px;
     float: left;
-
 }
 
 #sign-in-txt {
-
     font-weight: bold;
-    margin-top: 12px;
+    font-size: 90%;
     position: relative;
-    top: 11px;
-
+    top: 14px;
 }
 
 #signin-div {
-
     margin-right: 65px;
-
 }
 
-#news-txt {
-
+.topbar-selectors {
     font-weight: bold;
-    margin-top: 12px;
-    margin-left: 15px;
-    position: relative;
-    top: 11px;
-
+    font-size: 90%;
+    padding: 14px 15px 0 15px;
+    height: 26px;
 }
+
+
