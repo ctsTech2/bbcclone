@@ -9,6 +9,7 @@
 body {
     margin: 0%;
     padding: 0%;
+    font-family: Arial,Helvetica,sans-serif;
 }
 
 #logo {
@@ -28,3 +29,36 @@ body {
 
 }
 
+#sign-in-img {
+
+    width: 25px;
+    height: 25px;
+    margin: 8px 8px;
+    float: left;
+
+}
+
+#sign-in-txt {
+
+    font-weight: bold;
+    margin-top: 12px;
+    position: relative;
+    top: 11px;
+
+}
+
+#signin-div {
+
+    margin-right: 65px;
+
+}
+
+#news-txt {
+
+    font-weight: bold;
+    margin-top: 12px;
+    margin-left: 15px;
+    position: relative;
+    top: 11px;
+
+}
