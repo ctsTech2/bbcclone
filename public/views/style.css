@@ -45,7 +45,17 @@ body {
     font-weight: bold;
     font-size: 90%;
     padding: 14px 15px 0 15px;
-    height: 26px;
+    height: 27px;
+}
+
+#searchbox {
+    background-color: #e4e4e4;
+    border: none;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 7px;
+    margin: 5px 0 5px 5px;
+    float: left;
 }
 
 
